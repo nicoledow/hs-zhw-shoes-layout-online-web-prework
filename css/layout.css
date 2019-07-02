@@ -24,6 +24,6 @@
 
 /* Positioning Classes */
 #discounted-shoes-horizontal-list {
-  
+  column-count: 3;
 }
 
